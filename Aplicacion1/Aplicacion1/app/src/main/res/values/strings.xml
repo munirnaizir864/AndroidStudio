@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplicacion1</string>
+    <string name="titulo">DIGITE LOS DATOS</string>
+    <string name="Bienvenido">BIENVENIDO</string>
+    <string name="valor_x1">X1</string>
+    <string name="valor_x2">X2</string>
+    <string name="valor_y1">Y1</string>
+    <string name="valor_y2">Y2</string>
+    <string name="punto_medio">PUNTO MEDIO</string>
+    <string name="pendiente">PENDIENTE</string>
+    <string name="cuadrante">CUADRANTE</string>
+    <string name="ingrese_valor">INGRESE VALOR</string>
+</resources>
